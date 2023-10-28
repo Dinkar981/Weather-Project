@@ -6,6 +6,7 @@
 }
 body{
     background: #222;
+    background-image: url('https://picsum.photos/seed/picsum/200/300');
 }
 .card{
     width: 90%;
